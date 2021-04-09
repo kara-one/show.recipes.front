@@ -1,3 +1,13 @@
+# It is a Recipes book for recipes.front.
+*show.recipes.front*
+
+## Intro
+- Tools: react.js, redux, axios, bootstrap
+- Demo: https://show-recipes-front.herokuapp.com/
+- Back: https://github.com/ksawl/show.recipes.back
+***
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
