@@ -17,7 +17,7 @@ const defaultState = {
     page: 1,
     totalItems: 0,
     isEndList: false, 
-    limit: 2,
+    limit: 4,
     stateModalCreate: false,
     stateModalDelete: false,
     idItemDelete: 0,
